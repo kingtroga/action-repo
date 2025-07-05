@@ -1,4 +1,4 @@
-# 🚀 Action Repo - GitHub Webhook Assingment
+# 🚀 Action Repo 1 - GitHub Webhook Assingment
 
 **Part of the TechStax GitHub Webhook Monitoring System**
 
